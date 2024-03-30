@@ -108,15 +108,14 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Senior Data Analyst | Ross Industries**")
-#st.write("02/2020 - Present")
-st.write(
-    """
-- ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
-- ► Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
-- ► Redesigned data model through iterations that improved predictions by 12%
-"""
-)
+st.write("🚧", "**Deep Learning Engineer | ArtificialIntelligenceResearch organization**")
+st.write("03/2024 - Present")
+#st.write(
+#    """
+#- ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
+#- ► Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
+#- ► Redesigned data model through iterations that improved predictions by 12%
+#""")
 
 
 # --- Projects & Accomplishments ---
