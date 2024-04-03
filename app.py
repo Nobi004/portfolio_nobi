@@ -109,7 +109,7 @@ st.write("---")
 
 # --- JOB 1
 st.write("🚧", "**Deep Learning Engineer | ArtificialIntelligenceResearch organization**")
-st.write("03/2024 - Present")
+st.write("01/04/2024 - Present")
 #st.write(
 #    """
 #- ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
