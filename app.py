@@ -108,7 +108,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Deep Learning Engineer | ArtificialIntelligenceResearch organization**")
+st.write("🚧", "**Deep Learning Engineer(Internship) | ArtificialIntelligenceResearch organization**")
 st.write("01/04/2024 - Present")
 #st.write(
 #    """
