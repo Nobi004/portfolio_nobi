@@ -147,9 +147,9 @@ for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
 
 
-# --- L E A D E R S H I P & A W A R D A S ---
+# --- L E A D E R S H I P & A W A R D S ---
 st.write('\n')
-st.subheader("L E A D E R S H I P & A W A R D A S")
+st.subheader("LEADERSHIPS & AWARDS")
 st.write(
     """
 - ✔️Awarded 3rd prize at Sylhet Engineering College EEE Fest
