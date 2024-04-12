@@ -96,13 +96,12 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Numpy , Pandas )
-- ‍💻 Deep learning Frame Work: (Tensorflow,PyTorch)
-- ‍💻 Computer Vision : OpenCV ,Pillow
-- ‍💻 Natural Language Processing : Nltk
-- 📊 Data Visulization: Seaborn,Matplotlib
-- 📚 Modeling: Logistic regression, linear regression, decition trees,Neural-Network
-- 🗄 Webscriping : BeautifulSoup,Auto-scriper
+- 👩‍💻 Programming: Python
+- ‍💻Frameworks: TensorFlow, Keras, PyTorch
+- ‍💻 Deep Learning: CNNs, RNNs, GANs
+- ‍💻 Natural Language Processing : NLTK, GPT
+- 📊 Computer Vision: OpenCV,
+- 📚 Data Tools: Pandas, NumPy, matplotlib
 #- 🗄️ Databases: Postgres, MongoDB, MySQL
 """
 )
