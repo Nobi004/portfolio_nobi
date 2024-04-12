@@ -21,8 +21,8 @@ AI Architect: Crafting Intelligent Solutions______, ML-DL Engineer.
 EMAIL = "mdmnb435@email.com"
 SOCIAL_MEDIA = {
     #"YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "https://linkedin.com/in/nobi004",
-    "GitHub": "https://github.com/nobi04",
+    "LinkedIn": "https://linkedin.com/in/nobi04",
+    "GitHub": "https://github.com/nobi004",
     "Facebook": "https://Facebook.com/nobi04",
     "Kaggle" :  "https://www.kaggle.com/mdmahmudunnobi"
 }
