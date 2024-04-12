@@ -28,6 +28,13 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
     "🏆Resume-Screening-Web-APP": "https://github.com/Nobi004/Resume-Screening-Web-APP.git",
+    "🏆Simple-Python-Chat-App": "https://github.com/Nobi004/Simple-Python-Chat-App",
+    "🏆Brain-Tumer-Classification": "https://github.com/Nobi004/Brain-Tumer-Classification",
+    "🏆Diabetics-prediction": "https://github.com/Nobi004/Diabetics-prediction",
+    "🏆Digit-Recognizer ": "https://github.com/Nobi004/Digit-Recognizer",
+    "🏆Credit-Card-Fraud-Ditection": "https://github.com/Nobi004/Credit-Card-Fraud-Ditection",
+    "🏆object-angle-ditection ": "https://github.com/Nobi004/object-angle-ditection",
+    "🏆Hand Gesture/Face/Body-Pose/Iris Ditection": "https://github.com/Nobi004/Conmputer-Vision-openCV-",
      #"🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
     # "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
 }
