@@ -63,6 +63,14 @@ with col1:
 with col2:
     st.title(NAME)
     st.write(DESCRIPTION)
+    st.write("A B O U T M E")
+    st.write("An enthusiastic AI and ML enthusiast and electrical and
+electronic engineer, dedicated to using engineering skills to
+solve practical problems. Committed to staying on the cutting
+edge of technology by studying neural networks and refining
+algorithms. Eager to collaborate and contribute significantly
+to the development of AI and ML.
+")
     st.download_button(
         label="Download Resume",
         data= PDFbyte,
