@@ -84,9 +84,16 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ Strong hands on experience and knowledge in Python and Excel
-- ✔️ Good understanding of deep learnig ,computr vision ,NLP framework and their respective applications
-- ✔️ Excellent team-player and displaying strong sense of initiative on tasks
+- ✔️ University of Dhaka
+Faridpur Engineering College
+Bachelor of Science: Electrical And
+Electronics Engineering 4th year
+- ✔️AI Quest/jan2024 to ......
+Deep Learning And Ai specialization (Runnig)
+
+- ✔️ National Academy for Computer Training
+and Research (NACTAR) (Mar-Oct) 2023
+Course:Machine Learing and Data Science
 """
 )
 
@@ -130,3 +137,24 @@ st.subheader("Projects & Accomplishments")
 st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
+
+
+# --- L E A D E R S H I P & A W A R D A S ---
+st.write('\n')
+st.subheader("L E A D E R S H I P & A W A R D A S")
+st.write(
+    """
+- ✔️Awarded 3rd prize at Sylhet Engineering College EEE Fest
+2024 for poster presentation titled 'Bridging the gap
+between traditional study and AI-enhanced learning'
+among 27 competing teams
+
+- ✔️ Joint Secretary at Research and Innovation, overseeing
+200 members within the university campus.
+
+- ✔️Senior Executive at Faridpur Engineering College Sports
+Association, managing a 500+ member club.
+
+
+"""
+)
