@@ -63,7 +63,7 @@ with col1:
 with col2:
     st.title(NAME)
     st.write(DESCRIPTION)
-    st.subheader("A B O U T M E")
+    st.subheader("ABOUT ME")
     st.write("""An enthusiastic AI and ML enthusiast and electrical and
 electronic engineer, dedicated to using engineering skills to
 solve practical problems. Committed to staying on the cutting
